@@ -1,2 +1,2 @@
 users function
-function boring avatars
+function boring avatar
